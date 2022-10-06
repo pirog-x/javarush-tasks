@@ -23,7 +23,7 @@ public class Solution {
         }
 
         for (String string : strings) {
-            System.out.print(strings[i] + ", ");
+            System.out.print(string + ", ");
         }
     }
 }
