@@ -3,11 +3,13 @@ public class Main {
 //        // Удаляем одинаковые строки
 //        task0508.Solution.solution();
 
-
 //        // Таблица умножения
 //        task0509.Solution.solution();
 
-        // Треугольный массив
-        task0510.Solution.solution();
+//        // Треугольный массив
+//        task0510.Solution.solution();
+
+//        // Создаем двумерный массив
+//        task0511.Solution.solution();
     }
 }
