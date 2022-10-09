@@ -4,7 +4,7 @@ public class Main {
 //        task0508.Solution.solution();
 
 
-        // Таблица умножения
-        task0509.Solution.solution();
+//        // Таблица умножения
+//        task0509.Solution.solution();
     }
 }
