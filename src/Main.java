@@ -6,5 +6,8 @@ public class Main {
 
 //        // Таблица умножения
 //        task0509.Solution.solution();
+
+        // Треугольный массив
+        task0510.Solution.solution();
     }
 }
