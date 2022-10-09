@@ -11,5 +11,9 @@ public class Main {
 
 //        // Создаем двумерный массив
 //        task0511.Solution.solution();
+
+        // Создаем мультимассив
+        task0512.Solution.solution();
+
     }
 }
