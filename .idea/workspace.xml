@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="in progress to solve the task">
+    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done task0508">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task0508/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task0508/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task0509/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task0509/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1665091956226</updated>
       <workItem from="1665091957650" duration="1699000" />
-      <workItem from="1665156947824" duration="4011000" />
+      <workItem from="1665156947824" duration="4164000" />
+      <workItem from="1665323582339" duration="3148000" />
     </task>
     <task id="LOCAL-00001" summary="in progress to solve the task">
       <created>1665093417889</created>
@@ -82,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665093517547</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="done task0508">
+      <created>1665161178383</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665161178383</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,15 +110,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="in progress to solve the task" />
-    <option name="LAST_COMMIT_MESSAGE" value="in progress to solve the task" />
+    <MESSAGE value="done task0508" />
+    <option name="LAST_COMMIT_MESSAGE" value="done task0508" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task0509/Solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="strings[i]" />
         <watch expression="strings[j]" />
         <watch expression="strings" language="JAVA" />
+        <watch expression="MULTIPLICATION_TABLE" language="JAVA" />
+        <watch expression="MULTIPLICATION_TABLE[i][j]" />
+        <watch expression="MULTIPLICATION_TABLE[i][j]" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_rush_tasks$Main.ic" NAME="Main Coverage Results" MODIFIED="1665327775009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
