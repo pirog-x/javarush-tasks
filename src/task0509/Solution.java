@@ -29,9 +29,10 @@ public class Solution {
         }
 
 
-        for (int[] ints : MULTIPLICATION_TABLE) {
+
+        for (int i = 0; i < MULTIPLICATION_TABLE.length; i++) {
             for (int j = 0; j < MULTIPLICATION_TABLE.length; j++) {
-                System.out.print(ints[j] + " ");
+                System.out.print(MULTIPLICATION_TABLE[i][j] + " ");
             }
             System.out.println();
         }
