@@ -1,4 +1,4 @@
-package task0513;
+package tasks05.task0513;
 import java.util.Arrays;
 
 /*
@@ -12,6 +12,22 @@ public class Solution {
     public static int[] ints = new int[]{1, 2, 3, 4, 5, 6, 7, 8};
 
     public static void solution() {
-
+        System.out.println(Arrays.toString(strings));
+        System.out.println(Arrays.toString(ints));
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

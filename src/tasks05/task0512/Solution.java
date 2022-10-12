@@ -1,4 +1,4 @@
-package task0512;
+package tasks05.task0512;
 
 /*
 Создаем мультимассив

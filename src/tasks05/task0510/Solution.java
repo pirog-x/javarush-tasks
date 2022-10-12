@@ -1,4 +1,4 @@
-package task0510;
+package tasks05.task0510;
 
 
 /*

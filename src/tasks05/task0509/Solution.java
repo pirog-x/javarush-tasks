@@ -1,4 +1,4 @@
-package task0509;
+package tasks05.task0509;
 
 /*
 Таблица умножения
