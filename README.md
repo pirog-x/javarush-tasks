@@ -1,2 +1,2 @@
 # javarush-tasks
-implementation of javarush.ru tasks
+Implementation of javarush.ru tasks
