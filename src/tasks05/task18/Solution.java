@@ -1,4 +1,4 @@
-package tasks05.task0518;
+package tasks05.task18;
 import java.util.Arrays;
 
 /*
