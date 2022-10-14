@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done task0512">
-      <change afterPath="$PROJECT_DIR$/src/task0513/Solution.java" afterDir="false" />
+    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="create new package and done Array list t1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javarush2019/lect7/ArrayList/t1/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -33,17 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -70,6 +74,9 @@
       <workItem from="1665156947824" duration="4164000" />
       <workItem from="1665323582339" duration="3561000" />
       <workItem from="1665345050496" duration="3916000" />
+      <workItem from="1665609937787" duration="746000" />
+      <workItem from="1665693912102" duration="3834000" />
+      <workItem from="1665725339926" duration="2577000" />
     </task>
     <task id="LOCAL-00001" summary="in progress to solve the task">
       <created>1665093417889</created>
@@ -159,7 +166,8 @@
     <MESSAGE value="done task0510" />
     <MESSAGE value="done task0511" />
     <MESSAGE value="done task0512" />
-    <option name="LAST_COMMIT_MESSAGE" value="done task0512" />
+    <MESSAGE value="create new package and done Array list t1" />
+    <option name="LAST_COMMIT_MESSAGE" value="create new package and done Array list t1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -176,6 +184,10 @@
         <watch expression="multiArray" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_rush_tasks$Main.ic" NAME="Main Coverage Results" MODIFIED="1665327775009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
