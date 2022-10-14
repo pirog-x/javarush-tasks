@@ -1,4 +1,4 @@
-package javarush2019.lect7.ArrayList.t1;
+package javarush2019.level07.lesson06.t1;
 import java.util.ArrayList;
 
 /*
