@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="create new package and done Array list t1">
+    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done 1">
+      <change afterPath="$PROJECT_DIR$/src/javarush2019/level07/lesson06/t2/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javarush2019/lect7/ArrayList/t1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javarush2019/level07/lesson06/t1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javarush2019/level07/lesson06/t1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javarush2019/level07/lesson06/t1/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +78,9 @@
       <workItem from="1665693912102" duration="3834000" />
       <workItem from="1665725339926" duration="8979000" />
       <workItem from="1665742390403" duration="2244000" />
+      <workItem from="1665757354453" duration="926000" />
+      <workItem from="1665781372700" duration="3087000" />
+      <workItem from="1665833501532" duration="5638000" />
     </task>
     <task id="LOCAL-00001" summary="in progress to solve the task">
       <created>1665093417889</created>
@@ -148,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665728889627</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="done 1">
+      <created>1665757637136</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665757637136</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +185,8 @@
     <MESSAGE value="done task0511" />
     <MESSAGE value="done task0512" />
     <MESSAGE value="create new package and done Array list t1" />
-    <option name="LAST_COMMIT_MESSAGE" value="create new package and done Array list t1" />
+    <MESSAGE value="done 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="done 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
