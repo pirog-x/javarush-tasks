@@ -9,6 +9,7 @@ import java.util.ArrayList;
 2. После каждого слова вставь в список строку, содержащую слово «именно».
 3. Используя цикл for, вывести результат на экран. Каждый элемент списка с новой строки.
  */
+
 public class Solution {
     public static void solution() {
         ArrayList<String> list = new ArrayList<>();
