@@ -1,4 +1,4 @@
-package javarush2019.level07.lesson06.t3;
+package javarush2019.lection07.task06.t3;
 import java.util.Scanner;
 import java.util.ArrayList;
 
