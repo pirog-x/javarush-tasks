@@ -28,9 +28,9 @@ public class Solution {
             }
         }
 
-        for (int i = 0; i < list.size(); i++) {
-            if (theBiggestSize == list.get(i).length()) {
-                System.out.println(list.get(i));
+        for (String s : list) {
+            if (theBiggestSize == s.length()) {
+                System.out.println(s);
             }
         }
     }
