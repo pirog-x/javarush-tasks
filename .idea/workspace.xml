@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="improved javarush2019.lection07.task12.normal.t6">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javarush2019/lection07/task12/normal/t7/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javarush2019/lection07/task12/normal/t7/Solution.java" afterDir="false" />
+    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="rename packages">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javarush2019/level07/lesson09/t1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javarush2019/level07/lesson09/t1/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +231,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666021017529</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="done javarush2019.lection07.task12.normal.t7">
+      <created>1666021223959</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666021223959</updated>
+    </task>
+    <task id="LOCAL-00023" summary="rename packages">
+      <created>1666021461256</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1666021461256</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +283,9 @@
     <MESSAGE value="done javarush2019.lection07.task12.normal.t6" />
     <MESSAGE value="advanced javarush2019.lection07.task12.normal.t6" />
     <MESSAGE value="improved javarush2019.lection07.task12.normal.t6" />
-    <option name="LAST_COMMIT_MESSAGE" value="improved javarush2019.lection07.task12.normal.t6" />
+    <MESSAGE value="done javarush2019.lection07.task12.normal.t7" />
+    <MESSAGE value="rename packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename packages" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
