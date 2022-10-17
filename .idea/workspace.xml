@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done javarush2019.lection07.task12.normal.t2" />
+    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done javarush2019.lection07.task12.normal.t3">
+      <change afterPath="$PROJECT_DIR$/src/javarush2019/lection07/task12/normal/t4/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666016165067</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="done javarush2019.lection07.task12.normal.t3">
+      <created>1666016460807</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666016460807</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +235,8 @@
     <MESSAGE value="done javarush2019.lection07.task09.t5" />
     <MESSAGE value="done javarush2019.lection07.task12.normal.t1" />
     <MESSAGE value="done javarush2019.lection07.task12.normal.t2" />
-    <option name="LAST_COMMIT_MESSAGE" value="done javarush2019.lection07.task12.normal.t2" />
+    <MESSAGE value="done javarush2019.lection07.task12.normal.t3" />
+    <option name="LAST_COMMIT_MESSAGE" value="done javarush2019.lection07.task12.normal.t3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
