@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done javarush2019.lection07.task12.normal.t4">
-      <change afterPath="$PROJECT_DIR$/src/javarush2019/lection07/task12/normal/t5/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done javarush2019.lection07.task12.normal.t5">
+      <change afterPath="$PROJECT_DIR$/src/javarush2019/lection07/task12/normal/t6/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666017961484</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="done javarush2019.lection07.task12.normal.t5">
+      <created>1666018337686</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1666018337686</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +251,8 @@
     <MESSAGE value="done javarush2019.lection07.task12.normal.t2" />
     <MESSAGE value="done javarush2019.lection07.task12.normal.t3" />
     <MESSAGE value="done javarush2019.lection07.task12.normal.t4" />
-    <option name="LAST_COMMIT_MESSAGE" value="done javarush2019.lection07.task12.normal.t4" />
+    <MESSAGE value="done javarush2019.lection07.task12.normal.t5" />
+    <option name="LAST_COMMIT_MESSAGE" value="done javarush2019.lection07.task12.normal.t5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
