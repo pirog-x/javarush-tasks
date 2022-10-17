@@ -88,10 +88,10 @@ class Human {
         String result = new String();
 
         result = "имя: " + this.name;
-        result = result + ", пол:" + (this.gender ? "мужской" : "женский");
-        result = result + ", возраст: " + this.age;
-        result = result + ", отец: " + (this.dad == null ? "-" : this.dad.getName());
-        result = result + ", мама: " + (this.mom == null ? "-" : this.mom.getName());
+        result += ", пол:" + (this.gender ? "мужской" : "женский");
+        result += ", возраст: " + this.age;
+        result += ", отец: " + (this.dad == null ? "-" : this.dad.getName());
+        result += ", мама: " + (this.mom == null ? "-" : this.mom.getName());
 
         return result;
     }
