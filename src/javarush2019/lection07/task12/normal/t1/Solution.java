@@ -1,6 +1,7 @@
 package javarush2019.lection07.task12.normal.t1;
 import java.util.Scanner;
 import java.util.ArrayList;
+
 /*
 Вывести числа в обратном порядке
 
