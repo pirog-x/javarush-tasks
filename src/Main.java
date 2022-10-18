@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        javarush2019.level07.lesson12.hard.t3.Solution.solution();
+        javarush2019.level08.lesson03.t1.Solution.solution();
     }
 }
