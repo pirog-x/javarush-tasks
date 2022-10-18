@@ -1,13 +1,13 @@
-package javarush2019.level08.lesson03.t4;
+package javarush2019.level08.lesson03.t5;
 
 import java.util.HashMap;
 import java.util.Map;
 
 /*
-Вывести на экран список ключей
+Вывести на экран список значений
 
 Есть коллекция HashMap<String, String>, туда занесли 10 различных строк.
-Вывести на экран список ключей, каждый элемент с новой строки.
+Вывести на экран список значений, каждый элемент с новой строки.
  */
 
 public class Solution {
@@ -25,12 +25,12 @@ public class Solution {
         map.put("love", "text");
         map.put("java", "text");
 
-        printKey(map);
+        printValue(map);
     }
 
-    private static void printKey(Map<String, String> map) {
-        for(Map.Entry<String, String> pair : map.entrySet()) {
-            System.out.println(pair.getKey());
+    private static void printValue(Map<String, String> map) {
+        for (Map.Entry<String, String> pair : map.entrySet()) {
+            System.out.println(pair.getValue());
         }
     }
 }

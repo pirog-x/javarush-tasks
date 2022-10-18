@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done javarush2019.level08.lesson03.t3">
-      <change afterPath="$PROJECT_DIR$/src/javarush2019/level08/lesson03/t4/Solution.java" afterDir="false" />
+    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done javarush2019.level08.lesson03.t4">
+      <change afterPath="$PROJECT_DIR$/src/javarush2019/level08/lesson03/t5/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javarush2019/level08/lesson03/t4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javarush2019/level08/lesson03/t4/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,7 @@
       <workItem from="1665833501532" duration="5638000" />
       <workItem from="1666036388806" duration="2698000" />
       <workItem from="1666039341768" duration="68000" />
-      <workItem from="1666091543609" duration="2331000" />
+      <workItem from="1666091543609" duration="2731000" />
     </task>
     <task id="LOCAL-00001" summary="in progress to solve the task">
       <created>1665093417889</created>
@@ -304,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666093615020</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="done javarush2019.level08.lesson03.t4">
+      <created>1666093949668</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1666093949668</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,7 +330,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="comment main" />
     <MESSAGE value="done task0510" />
     <MESSAGE value="done task0511" />
     <MESSAGE value="done task0512" />
@@ -347,7 +354,8 @@
     <MESSAGE value="done javarush2019.level08.lesson03.t1" />
     <MESSAGE value="done javarush2019.level08.lesson03.t2" />
     <MESSAGE value="done javarush2019.level08.lesson03.t3" />
-    <option name="LAST_COMMIT_MESSAGE" value="done javarush2019.level08.lesson03.t3" />
+    <MESSAGE value="done javarush2019.level08.lesson03.t4" />
+    <option name="LAST_COMMIT_MESSAGE" value="done javarush2019.level08.lesson03.t4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
