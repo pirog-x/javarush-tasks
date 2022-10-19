@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done javarush2019.level08.lesson06.t1">
-      <change afterPath="$PROJECT_DIR$/src/javarush2019/level08/lesson06/t3/Solution.java" afterDir="false" />
+    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done javarush2019.level08.lesson06.t3">
+      <change afterPath="$PROJECT_DIR$/src/javarush2019/level08/lesson06/t4/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -335,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666177715709</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="done javarush2019.level08.lesson06.t3">
+      <created>1666183048528</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1666183048528</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,7 +360,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="create new package and done Array list t1" />
     <MESSAGE value="done 1" />
     <MESSAGE value="done javarush2019.level07.lesson06.t4" />
     <MESSAGE value="done javarush2019.level07.lesson06.t5" />
@@ -378,7 +384,8 @@
     <MESSAGE value="done javarush2019.level08.lesson03.t5 and modify *.t4" />
     <MESSAGE value="done javarush2019.level08.lesson03.t6" />
     <MESSAGE value="done javarush2019.level08.lesson06.t1" />
-    <option name="LAST_COMMIT_MESSAGE" value="done javarush2019.level08.lesson06.t1" />
+    <MESSAGE value="done javarush2019.level08.lesson06.t3" />
+    <option name="LAST_COMMIT_MESSAGE" value="done javarush2019.level08.lesson06.t3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
