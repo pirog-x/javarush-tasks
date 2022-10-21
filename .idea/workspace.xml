@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done  javarush2019.level08.lesson08.t3">
-      <change afterPath="$PROJECT_DIR$/src/javarush2019/level08/lesson08/t4/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javarush2019/level08/lesson08/t5/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-Oct-22_11_43_AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-Oct-22_11_43_AM__Changes_.xml" beforeDir="false" />
+    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done  javarush2019.level08.lesson08.t4">
+      <change afterPath="$PROJECT_DIR$/src/javarush2019/level08/lesson11/home1/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javarush2019/level08/lesson08/t5/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javarush2019/level08/lesson08/t5/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +91,7 @@
       <workItem from="1666096707433" duration="1977000" />
       <workItem from="1666177390767" duration="1922000" />
       <workItem from="1666202491365" duration="484000" />
-      <workItem from="1666387871599" duration="1332000" />
+      <workItem from="1666387871599" duration="4573000" />
     </task>
     <task id="LOCAL-00001" summary="in progress to solve the task">
       <created>1665093417889</created>
@@ -368,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666259323010</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="done  javarush2019.level08.lesson08.t4">
+      <created>1666389336592</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1666389336592</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +391,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="done javarush2019.lection07.task09.t5" />
     <MESSAGE value="done javarush2019.lection07.task12.normal.t1" />
     <MESSAGE value="done javarush2019.lection07.task12.normal.t2" />
     <MESSAGE value="done javarush2019.lection07.task12.normal.t3" />
@@ -411,7 +415,8 @@
     <MESSAGE value="done javarush2019.level08.lesson06.t4" />
     <MESSAGE value="done javarush2019.level08.lesson06.t5" />
     <MESSAGE value="done  javarush2019.level08.lesson08.t3" />
-    <option name="LAST_COMMIT_MESSAGE" value="done  javarush2019.level08.lesson08.t3" />
+    <MESSAGE value="done  javarush2019.level08.lesson08.t4" />
+    <option name="LAST_COMMIT_MESSAGE" value="done  javarush2019.level08.lesson08.t4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -420,11 +425,6 @@
           <url>file://$PROJECT_DIR$/src/task0509/Solution.java</url>
           <line>21</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/javarush2019/level08/lesson08/t4/Solution.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

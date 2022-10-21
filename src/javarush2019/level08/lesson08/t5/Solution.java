@@ -1,5 +1,8 @@
 package javarush2019.level08.lesson08.t5;
 
+import java.util.HashMap;
+import java.util.Map;
+
 /*
 Удалить людей, имеющих одинаковые имена
 
@@ -7,21 +10,21 @@ package javarush2019.level08.lesson08.t5;
 Удалить людей, имеющих одинаковые имена.
  */
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class Solution {
     public static void solution() {
         Map<String, String> map = fillMap();
 
+        System.out.println("before:");
         printMap(map);
+
         removePeopleWithSameNames(map);
+
+        System.out.println("\n\nafter:");
         printMap(map);
     }
 
     private static Map<String, String> fillMap() {
         Map<String, String> map = new HashMap<>(10);
-        map.put("", "");
 
         map.put("Петров", "Петр");
         map.put("Иванов", "Иван");
@@ -40,7 +43,21 @@ public class Solution {
     private static void removePeopleWithSameNames(Map<String, String> map) {
         if (map == null || map.size() == 0) return;
 
+        Map<String, String> tempMap = Map.copyOf(map);
+        boolean used = false;
 
+        for (Map.Entry<String, String> pairOut : tempMap.entrySet()) {
+            for (Map.Entry<String, String> pairIn : tempMap.entrySet()) {
+                if (pairOut.getValue().equals(pairIn.getValue()) && !pairOut.getKey().equals(pairIn.getKey())) {
+                    map.remove(pairIn.getKey());
+                    used = true;
+                }
+            }
+            if (used) {
+                map.remove(pairOut.getKey());
+                used = false;
+            }
+        }
     }
 
     private static void printMap(Map<String, String> map) {
