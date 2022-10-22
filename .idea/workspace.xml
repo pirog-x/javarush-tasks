@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done javarush2019.level08.lesson11.home2">
-      <change afterPath="$PROJECT_DIR$/src/javarush2019/level08/lesson11/home3/Solution.java" afterDir="false" />
+    <list default="true" id="416798aa-96a1-4be6-9b93-f39d0d8f8466" name="Changes" comment="done javarush2019.level08.lesson11.home3">
+      <change afterPath="$PROJECT_DIR$/src/javarush2019/level08/lesson11/home4/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -91,7 +91,7 @@
       <workItem from="1666177390767" duration="1922000" />
       <workItem from="1666202491365" duration="484000" />
       <workItem from="1666387871599" duration="6359000" />
-      <workItem from="1666464397743" duration="2387000" />
+      <workItem from="1666464397743" duration="3181000" />
     </task>
     <task id="LOCAL-00001" summary="in progress to solve the task">
       <created>1665093417889</created>
@@ -394,7 +394,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666466188252</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="done javarush2019.level08.lesson11.home3">
+      <created>1666466847778</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1666466847778</updated>
+    </task>
+    <task id="LOCAL-00045" summary="done javarush2019.level08.lesson11.home3">
+      <created>1666466865672</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1666466865672</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,7 +426,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="done javarush2019.lection07.task12.normal.t3" />
     <MESSAGE value="done javarush2019.lection07.task12.normal.t4" />
     <MESSAGE value="done javarush2019.lection07.task12.normal.t5" />
     <MESSAGE value="done javarush2019.lection07.task12.normal.t6" />
@@ -437,7 +450,8 @@
     <MESSAGE value="done  javarush2019.level08.lesson08.t4" />
     <MESSAGE value="done javarush2019.level08.lesson11.home1" />
     <MESSAGE value="done javarush2019.level08.lesson11.home2" />
-    <option name="LAST_COMMIT_MESSAGE" value="done javarush2019.level08.lesson11.home2" />
+    <MESSAGE value="done javarush2019.level08.lesson11.home3" />
+    <option name="LAST_COMMIT_MESSAGE" value="done javarush2019.level08.lesson11.home3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
