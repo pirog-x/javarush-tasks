@@ -88,14 +88,7 @@
       <workItem from="1666202491365" duration="484000" />
       <workItem from="1666387871599" duration="6359000" />
       <workItem from="1666464397743" duration="7164000" />
-      <workItem from="1666554160069" duration="2081000" />
-    </task>
-    <task id="LOCAL-00001" summary="in progress to solve the task">
-      <created>1665093417889</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1665093417889</updated>
+      <workItem from="1666554160069" duration="2380000" />
     </task>
     <task id="LOCAL-00002" summary="in progress to solve the task">
       <created>1665093517547</created>
@@ -433,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666556241836</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="done javarush2019.level08.lesson11.home6">
+      <created>1666556558961</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1666556558961</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
